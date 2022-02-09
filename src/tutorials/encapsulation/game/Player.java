@@ -38,8 +38,7 @@ public class Player {
 
     private int playHuman() {
         Scanner scanner = new Scanner(System.in);
-        int numP1 = scanner.nextInt();
-        return numP1;
+        return scanner.nextInt();
     }
 
     private int playComputer() {
