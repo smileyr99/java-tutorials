@@ -1,9 +1,9 @@
 package tutorials.encapsulation.car;
 
 public class Car {
-    private String VIN;
-    private String make;
-    private int year;
+    private final String VIN;
+    private final String make;
+    private final int year;
 
     public Car(String VIN, String make, int year) {
         this.VIN = VIN;

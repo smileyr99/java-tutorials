@@ -1,6 +1,6 @@
 package tutorials.encapsulation.game;
 
-/**
+/*
  * This class represents a computer
  * player in the Odd-Even game
  */
